@@ -4,4 +4,4 @@ The simulation written in Processing shows what happens when pizza arrives at IT
 This is my final project for Nature of Class by Dan Shiffman at ITP. 
 
 Credit:
-The steering part of the code is based on Seek example and Separation example in [Dan Shiffman's Nature of Code](natureofcode.com/book/).
+The steering part of the code is based on Seek example and Separation example in [Dan Shiffman's Nature of Code](http://natureofcode.com/book/).
